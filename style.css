@@ -1,0 +1,12 @@
+#start {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+#mapCanvas{
+    position: absolute;
+    top:12%;
+    border: 5px solid black;
+}
